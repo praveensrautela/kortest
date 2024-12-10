@@ -97,7 +97,7 @@ class DashboardController extends Controller
         // Decode JSON response if needed
 
         $data = json_decode($response, true);
-        echo "<prE>";print_r($data);die;
+
 
         // Pass response to the view
         return $this->render('dashboard', [
