@@ -1,0 +1,157 @@
+
+Error :   Error Date/Time 2020/09/26 12:02:15 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:17 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:18 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:18 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:18 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:19 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:19 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:19 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:19 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:19 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:20 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:20 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/09/26 12:02:21 User ID -  Controller Name  - dashboard Line No - 159  Error Message - Illegal string offset 'since_inception'    Error Code :yii\base\ErrorException: Illegal string offset 'since_inception' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:159
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(159): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 159, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(116): frontend\controllers\DashboardController->Benchmarkdata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionCatrory()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('catrory', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/catro...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}

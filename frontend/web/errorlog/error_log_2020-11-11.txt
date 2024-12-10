@@ -1,0 +1,169 @@
+
+Error :   Error Date/Time 2020/11/11 18:39:49 User ID -  Controller Name  - dashboard Line No - 808  Error Message - Illegal string offset 'company_id'    Error Code :yii\base\ErrorException: Illegal string offset 'company_id' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:808
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(808): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 808, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:40:37 User ID -  Controller Name  - dashboard Line No - 808  Error Message - Illegal string offset 'company_id'    Error Code :yii\base\ErrorException: Illegal string offset 'company_id' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:808
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(808): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 808, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:41:49 User ID -  Controller Name  - dashboard Line No - 808  Error Message - Illegal string offset 'company_id'    Error Code :yii\base\ErrorException: Illegal string offset 'company_id' in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:808
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(808): yii\base\ErrorHandler->handleError(2, 'Illegal string ...', 'D:\\xampp\\htdocs...', 808, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:42:21 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:42:59 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:43:57 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:44:25 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:46:11 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:48:18 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:48:51 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:49:21 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:49:41 User ID -  Controller Name  - dashboard Line No - 814  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:814
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(814): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 814, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:50:51 User ID -  Controller Name  - dashboard Line No - 815  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:815
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(815): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 815, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
+Error :   Error Date/Time 2020/11/11 18:53:57 User ID -  Controller Name  - dashboard Line No - 816  Error Message - A non-numeric value encountered    Error Code :yii\base\ErrorException: A non-numeric value encountered in D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php:816
+Stack trace:
+#0 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(816): yii\base\ErrorHandler->handleError(2, 'A non-numeric v...', 'D:\\xampp\\htdocs...', 816, Array)
+#1 D:\xampp\htdocs\pms\frontend\controllers\DashboardController.php(780): frontend\controllers\DashboardController->comparisondata(Array)
+#2 [internal function]: frontend\controllers\DashboardController->actionComparison()
+#3 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#4 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Controller.php(180): yii\base\InlineAction->runWithParams(Array)
+#5 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('comparison', Array)
+#6 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('dashboard/compa...', Array)
+#7 D:\xampp\htdocs\pms\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 D:\xampp\htdocs\pms\frontend\web\index.php(17): yii\base\Application->run()
+#9 {main}
